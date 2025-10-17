@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+  <defs>
+    <pattern id="dirtPattern" patternUnits="userSpaceOnUse" width="4" height="4">
+      <rect x="0" y="0" width="4" height="4" fill="#964b00"/>
+      <rect x="0" y="1" width="1" height="1" fill="#783f04"/>
+      <rect x="1" y="0" width="1" height="1" fill="#783f04"/>
+      <rect x="2" y="3" width="1" height="1" fill="#783f04"/>
+      <rect x="3" y="2" width="1" height="1" fill="#783f04"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="16" height="16" fill="url(#dirtPattern)"/>
+</svg>

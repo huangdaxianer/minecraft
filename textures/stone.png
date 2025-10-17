@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+  <defs>
+    <pattern id="stonePattern" patternUnits="userSpaceOnUse" width="4" height="4">
+      <rect x="0" y="0" width="4" height="4" fill="#808080"/>
+      <rect x="0" y="0" width="1" height="1" fill="#666666"/>
+      <rect x="3" y="0" width="1" height="1" fill="#666666"/>
+      <rect x="0" y="3" width="1" height="1" fill="#666666"/>
+      <rect x="3" y="3" width="1" height="1" fill="#666666"/>
+      <rect x="1" y="2" width="1" height="1" fill="#999999"/>
+      <rect x="2" y="1" width="1" height="1" fill="#999999"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="16" height="16" fill="url(#stonePattern)"/>
+</svg>
